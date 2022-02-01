@@ -1,6 +1,6 @@
 # Welcome to My GitHub Page
 
-### About me
+## About me
 
 I am a student at Boise State University majoring in computer science.
 My hobbies include:
